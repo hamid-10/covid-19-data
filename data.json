@@ -1,0 +1,261 @@
+[
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Lower Austria",
+    "cases": 2554,
+    "recovered": 1950,
+    "deaths": 86,
+    "active": 518,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      15.7605,
+      48.221000000000004
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-3",
+    "population": 1653419,
+    "populationDensity": 86.1501096312734,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-3",
+    "name": "Lower Austria, Austria",
+    "level": "state"
+  },
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Vorarlberg",
+    "cases": 868,
+    "recovered": 755,
+    "deaths": 14,
+    "active": 99,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      9.884,
+      47.2185
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-8",
+    "population": 388711,
+    "populationDensity": 151.1323771697396,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-8",
+    "name": "Vorarlberg, Austria",
+    "level": "state"
+  },
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Upper Austria",
+    "cases": 2240,
+    "recovered": 2021,
+    "deaths": 48,
+    "active": 171,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      13.8705,
+      48.1175
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-4",
+    "population": 1453733,
+    "populationDensity": 121.32593739440766,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-4",
+    "name": "Upper Austria, Austria",
+    "level": "state"
+  },
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Styria",
+    "cases": 1722,
+    "recovered": 1011,
+    "deaths": 108,
+    "active": 603,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      14.8675,
+      47.22
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-6",
+    "population": 1231865,
+    "populationDensity": 75.16722955746651,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-6",
+    "name": "Styria, Austria",
+    "level": "state"
+  },
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Burgenland",
+    "cases": 316,
+    "recovered": 235,
+    "deaths": 8,
+    "active": 73,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      16.578500000000002,
+      47.477000000000004
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-1",
+    "population": 291023,
+    "populationDensity": 73.29312420302173,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-1",
+    "name": "Burgenland, Austria",
+    "level": "state"
+  },
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Carinthia",
+    "cases": 404,
+    "recovered": 360,
+    "deaths": 12,
+    "active": 32,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      13.8605,
+      46.7515
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-2",
+    "population": 560300,
+    "populationDensity": 58.66607338760046,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-2",
+    "name": "Carinthia, Austria",
+    "level": "state"
+  },
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Salzburg",
+    "cases": 1210,
+    "recovered": 1041,
+    "deaths": 31,
+    "active": 138,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      13.035,
+      47.4925
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-5",
+    "population": 545742,
+    "populationDensity": 76.64589859161056,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-5",
+    "name": "Salzburg, Austria",
+    "level": "state"
+  },
+]
