@@ -258,4 +258,41 @@
     "name": "Salzburg, Austria",
     "level": "state"
   },
+   {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Lower Austria",
+    "cases": 2554,
+    "recovered": 1950,
+    "deaths": 86,
+    "active": 518,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      15.7605,
+      48.221000000000004
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-3",
+    "population": 1653419,
+    "populationDensity": 86.1501096312734,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-3",
+    "name": "Lower Austria, Austria",
+    "level": "state"
+  },
 ]
