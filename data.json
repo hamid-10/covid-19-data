@@ -16,10 +16,10 @@
       }
     ],
     "state": "Lower Austria",
-    "cases": 2554,
-    "recovered": 1950,
-    "deaths": 86,
-    "active": 518,
+    "cases": 2685,
+    "recovered": 2405,
+    "deaths": 89,
+    "active": 191,
     "rating": 0.5098039215686274,
     "coordinates": [
       15.7605,
@@ -33,7 +33,7 @@
     "populationDensity": 86.1501096312734,
     "countryId": "iso1:AT",
     "stateId": "iso2:AT-3",
-    "name": "Lower Austria, Austriaaaaaaaaaa",
+    "name": "Lower Austria, Austria",
     "level": "state"
   },
   {
@@ -53,10 +53,10 @@
       }
     ],
     "state": "Vorarlberg",
-    "cases": 868,
-    "recovered": 755,
-    "deaths": 14,
-    "active": 99,
+    "cases": 876,
+    "recovered": 838,
+    "deaths": 18,
+    "active": 20,
     "rating": 0.5098039215686274,
     "coordinates": [
       9.884,
@@ -90,10 +90,10 @@
       }
     ],
     "state": "Upper Austria",
-    "cases": 2240,
-    "recovered": 2021,
-    "deaths": 48,
-    "active": 171,
+    "cases": 2268,
+    "recovered": 2160,
+    "deaths": 53,
+    "active": 55,
     "rating": 0.5098039215686274,
     "coordinates": [
       13.8705,
@@ -127,10 +127,10 @@
       }
     ],
     "state": "Styria",
-    "cases": 1722,
-    "recovered": 1011,
-    "deaths": 108,
-    "active": 603,
+    "cases": 1810,
+    "recovered": 1395,
+    "deaths": 124,
+    "active": 291,
     "rating": 0.5098039215686274,
     "coordinates": [
       14.8675,
@@ -164,10 +164,10 @@
       }
     ],
     "state": "Burgenland",
-    "cases": 316,
-    "recovered": 235,
-    "deaths": 8,
-    "active": 73,
+    "cases": 331,
+    "recovered": 279,
+    "deaths": 11,
+    "active": 41,
     "rating": 0.5098039215686274,
     "coordinates": [
       16.578500000000002,
@@ -201,10 +201,10 @@
       }
     ],
     "state": "Carinthia",
-    "cases": 404,
-    "recovered": 360,
-    "deaths": 12,
-    "active": 32,
+    "cases": 411,
+    "recovered": 387,
+    "deaths": 13,
+    "active": 11,
     "rating": 0.5098039215686274,
     "coordinates": [
       13.8605,
@@ -238,10 +238,10 @@
       }
     ],
     "state": "Salzburg",
-    "cases": 1210,
-    "recovered": 1041,
-    "deaths": 31,
-    "active": 138,
+    "cases": 1212,
+    "recovered": 1155,
+    "deaths": 36,
+    "active": 21,
     "rating": 0.5098039215686274,
     "coordinates": [
       13.035,
@@ -258,7 +258,7 @@
     "name": "Salzburg, Austria",
     "level": "state"
   },
-   {
+  {
     "country": "Austria",
     "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
     "maintainers": [
@@ -274,25 +274,1042 @@
         "name": "Austrian Ministry of Health"
       }
     ],
-    "state": "Lower Austria",
-    "cases": 2554,
-    "recovered": 1950,
-    "deaths": 86,
-    "active": 518,
+    "state": "Tyrol",
+    "cases": 3518,
+    "recovered": 3310,
+    "deaths": 100,
+    "active": 108,
     "rating": 0.5098039215686274,
     "coordinates": [
-      15.7605,
-      48.221000000000004
+      11.531500000000001,
+      47.1945
     ],
     "tz": [
       "Europe/Vienna"
     ],
-    "featureId": "iso2:AT-3",
-    "population": 1653419,
-    "populationDensity": 86.1501096312734,
+    "featureId": "iso2:AT-7",
+    "population": 739002,
+    "populationDensity": 58.49689079536224,
     "countryId": "iso1:AT",
-    "stateId": "iso2:AT-3",
-    "name": "Lower Austria, Austria",
+    "stateId": "iso2:AT-7",
+    "name": "Tyrol, Austria",
+    "level": "state"
+  },
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "state": "Vienna",
+    "cases": 2665,
+    "recovered": 1999,
+    "deaths": 139,
+    "active": 527,
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      16.372,
+      48.2185
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso2:AT-9",
+    "population": 1888776,
+    "populationDensity": 4625.6323488577955,
+    "countryId": "iso1:AT",
+    "stateId": "iso2:AT-9",
+    "name": "Vienna, Austria",
+    "level": "state"
+  },
+  {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "cases": 15776,
+    "recovered": 13928,
+    "deaths": 583,
+    "active": 1265,
+    "rating": 0.47058823529411764,
+    "coordinates": [
+      13.346,
+      47.696
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso1:AT",
+    "population": 8809212,
+    "populationDensity": 105.09951583035115,
+    "countryId": "iso1:AT",
+    "name": "Austria",
+    "level": "country"
+  },
+  {
+    "country": "Australia",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "sources": [
+      {
+        "description": "ACT Government Health Department",
+        "name": "ACT Government Health",
+        "url": "https://www.health.act.gov.au"
+      }
+    ],
+    "state": "Australian Capital Territory",
+    "url": "https://www.covid19.act.gov.au",
+    "cases": 107,
+    "recovered": 104,
+    "tested": 11737,
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      149.0775,
+      -35.522000000000006
+    ],
+    "tz": [
+      "Australia/Canberra"
+    ],
+    "featureId": "iso2:AU-ACT",
+    "population": 396857,
+    "populationDensity": 168.34292412290964,
+    "countryId": "iso1:AU",
+    "stateId": "iso2:AU-ACT",
+    "name": "Australian Capital Territory, Australia",
+    "level": "state"
+  },
+  {
+    "country": "Australia",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Northern Territory Government - Coronavirus site",
+        "url": "https://coronavirus.nt.gov.au"
+      }
+    ],
+    "state": "Northern Territory",
+    "url": "https://coronavirus.nt.gov.au/",
+    "cases": 30,
+    "tested": 5267,
+    "recovered": 28,
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      133.4995,
+      -18.485
+    ],
+    "tz": [
+      "Australia/Darwin"
+    ],
+    "featureId": "iso2:AU-NT",
+    "population": 245562,
+    "populationDensity": 0.18132538246924917,
+    "countryId": "iso1:AU",
+    "stateId": "iso2:AU-NT",
+    "name": "Northern Territory, Australia",
+    "level": "state"
+  },
+  {
+    "country": "Australia",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "sources": [
+      {
+        "description": "SA Government Health Department",
+        "name": "SA Health",
+        "url": "https://www.sahealth.sa.gov.au"
+      }
+    ],
+    "state": "South Australia",
+    "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia",
+    "cases": 439,
+    "hospitalized": 0,
+    "recovered": 433,
+    "deaths": 4,
+    "active": 2,
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      135.0025,
+      -32.027499999999996
+    ],
+    "tz": [
+      "Australia/Adelaide"
+    ],
+    "featureId": "iso2:AU-SA",
+    "population": 1742744,
+    "populationDensity": 1.7650812300489742,
+    "countryId": "iso1:AU",
+    "stateId": "iso2:AU-SA",
+    "name": "South Australia, Australia",
+    "level": "state"
+  },
+  {
+    "country": "Australia",
+    "state": "Tasmania",
+    "sources": [
+      {
+        "name": "Tasmanian Government",
+        "url": "https://www.coronavirus.tas.gov.au/facts/cases-and-testing-updates"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "url": "https://www.coronavirus.tas.gov.au/facts/cases-and-testing-updates",
+    "cases": 225,
+    "recovered": 185,
+    "deaths": 13,
+    "active": 27,
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      151.382,
+      -47.178
+    ],
+    "tz": [
+      "Australia/Hobart"
+    ],
+    "featureId": "iso2:AU-TAS",
+    "population": 509965,
+    "populationDensity": 7.478736313669716,
+    "countryId": "iso1:AU",
+    "stateId": "iso2:AU-TAS",
+    "name": "Tasmania, Australia",
+    "level": "state"
+  },
+  {
+    "country": "Australia",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "sources": [
+      {
+        "description": "Victoria State Government Health and Human Services Department",
+        "name": "Victoria State Government Health and Human Services",
+        "url": "https://www.dhhs.vic.gov.au"
+      }
+    ],
+    "state": "Victoria",
+    "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
+    "cases": 1440,
+    "deaths": 18,
+    "recovered": 1321,
+    "tested": 162000,
+    "active": 101,
+    "rating": 0.29411764705882354,
+    "coordinates": [
+      145.46949999999998,
+      -36.565
+    ],
+    "tz": [
+      "Australia/Melbourne"
+    ],
+    "featureId": "iso2:AU-VIC",
+    "population": 5926624,
+    "populationDensity": 26.007083573841932,
+    "countryId": "iso1:AU",
+    "stateId": "iso2:AU-VIC",
+    "name": "Victoria, Australia",
+    "level": "state"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Flanders",
+    "county": "Antwerp",
+    "cases": 6998,
+    "hospitalized": 2393,
+    "discharged": 2289,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      4.717499999999999,
+      51.2485
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-VAN",
+    "population": 1847486,
+    "populationDensity": 645.0240661045158,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-VLG",
+    "countyId": "iso2:BE-VAN",
+    "name": "Antwerp, Flanders, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Flanders",
+    "county": "Limburg",
+    "cases": 5638,
+    "hospitalized": 1842,
+    "discharged": 1316,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      5.4465,
+      50.998
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-VLI",
+    "population": 870880,
+    "populationDensity": 357.5992438618318,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-VLG",
+    "countyId": "iso2:BE-VLI",
+    "name": "Limburg, Flanders, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Flanders",
+    "county": "East Flanders",
+    "cases": 5968,
+    "hospitalized": 1873,
+    "discharged": 1620,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      3.8305,
+      51.041
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-VOV",
+    "population": 1505053,
+    "populationDensity": 504.19235716698154,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-VLG",
+    "countyId": "iso2:BE-VOV",
+    "name": "East Flanders, Flanders, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Flanders",
+    "county": "Flemish Brabant",
+    "cases": 4939,
+    "hospitalized": 928,
+    "discharged": 718,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      4.5375,
+      50.869
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-VBR",
+    "population": 1138489,
+    "populationDensity": 538.7658476461488,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-VLG",
+    "countyId": "iso2:BE-VBR",
+    "name": "Flemish Brabant, Flanders, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Flanders",
+    "county": "West Flanders",
+    "cases": 5690,
+    "hospitalized": 1852,
+    "discharged": 1522,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      3.034,
+      51.0385
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-VWV",
+    "population": 1195796,
+    "populationDensity": 376.4346925082773,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-VLG",
+    "countyId": "iso2:BE-VWV",
+    "name": "West Flanders, Flanders, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Flanders",
+    "deaths": 4244,
+    "cases": 29233,
+    "hospitalized": 8888,
+    "discharged": 7465,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      4.228,
+      51.096500000000006
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-VLG",
+    "population": 6381859,
+    "populationDensity": 470.1386174369753,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-VLG",
+    "name": "Flanders, Belgium",
+    "level": "state"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "cases": 5379,
+    "hospitalized": 2386,
+    "discharged": 2129,
+    "state": "Brussels-Capital",
+    "deaths": 1328,
+    "county": "Brussels-Capital",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      4.3625,
+      50.841499999999996
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-BRU",
+    "population": 1198726,
+    "populationDensity": 7384.148323702641,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-BRU",
+    "countyId": "iso2:BE-BRU",
+    "name": "Brussels-Capital, Brussels-Capital, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "cases": 5379,
+    "hospitalized": 2386,
+    "discharged": 2129,
+    "state": "Brussels-Capital",
+    "deaths": 1328,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      4.3625,
+      50.841499999999996
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-BRU",
+    "population": 1198726,
+    "populationDensity": 7384.148323702641,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-BRU",
+    "name": "Brussels-Capital, Belgium",
+    "level": "state"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Wallonia",
+    "county": "Liège",
+    "cases": 6299,
+    "hospitalized": 1603,
+    "discharged": 1381,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      5.694,
+      50.471000000000004
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-WLG",
+    "population": 1105326,
+    "populationDensity": 285.0017182834668,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-WAL",
+    "countyId": "iso2:BE-WLG",
+    "name": "Liège, Wallonia, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Wallonia",
+    "county": "Walloon Brabant",
+    "cases": 1318,
+    "hospitalized": 213,
+    "discharged": 161,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      4.5555,
+      50.666
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-WBR",
+    "population": 401106,
+    "populationDensity": 367.27585502212605,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-WAL",
+    "countyId": "iso2:BE-WBR",
+    "name": "Walloon Brabant, Wallonia, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Wallonia",
+    "county": "Hainaut",
+    "cases": 5917,
+    "hospitalized": 2126,
+    "discharged": 1643,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      3.7270000000000003,
+      50.3765
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-WHT",
+    "population": 1341645,
+    "populationDensity": 351.61894457164595,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-WAL",
+    "countyId": "iso2:BE-WHT",
+    "name": "Hainaut, Wallonia, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Wallonia",
+    "county": "Namur",
+    "cases": 2038,
+    "hospitalized": 560,
+    "discharged": 355,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      4.840999999999999,
+      50.217
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-WNA",
+    "population": 493073,
+    "populationDensity": 133.8754535885803,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-WAL",
+    "countyId": "iso2:BE-WNA",
+    "name": "Namur, Wallonia, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Wallonia",
+    "county": "Luxembourg",
+    "cases": 1304,
+    "hospitalized": 361,
+    "discharged": 277,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      5.501,
+      49.963499999999996
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-WLX",
+    "population": 283227,
+    "populationDensity": 63.65901608642079,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-WAL",
+    "countyId": "iso2:BE-WLX",
+    "name": "Luxembourg, Wallonia, Belgium",
+    "level": "county"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Wallonia",
+    "deaths": 3009,
+    "cases": 16876,
+    "hospitalized": 4863,
+    "discharged": 3817,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      4.625,
+      50.1545
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso2:BE-WAL",
+    "population": 3624377,
+    "populationDensity": 214.2288957782303,
+    "countryId": "iso1:BE",
+    "stateId": "iso2:BE-WAL",
+    "name": "Wallonia, Belgium",
+    "level": "state"
+  },
+  {
+    "country": "Belgium",
+    "url": "https://epistat.wiv-isp.be/",
+    "sources": [
+      {
+        "description": "Sciensano is a public belgian scientific institution focused on public and animal health assignments.",
+        "name": "Sciensano",
+        "url": "https://www.sciensano.be/en"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "tested": 444634,
+    "cases": 52596,
+    "deaths": 8581,
+    "hospitalized": 16137,
+    "discharged": 13411,
+    "rating": 0.47058823529411764,
+    "coordinates": [
+      4.475,
+      50.501000000000005
+    ],
+    "tz": [
+      "Europe/Brussels"
+    ],
+    "featureId": "iso1:BE",
+    "population": 11431406,
+    "populationDensity": 372.905069987221,
+    "countryId": "iso1:BE",
+    "name": "Belgium",
+    "level": "country"
+  },
+  {
+    "country": "Brazil",
+    "sources": [
+      {
+        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+        "name": "SVS-MS",
+        "url": "https://covid.saude.gov.br/"
+      }
+    ],
+    "url": "https://covid.saude.gov.br/",
+    "maintainers": [
+      {
+        "name": "Felipe Roberto",
+        "email": "contato@feliperoberto.com.br",
+        "url": "http://feliperoberto.com.br",
+        "github": "feliperoberto",
+        "country": "iso1:BR",
+        "flag": "🇧🇷"
+      }
+    ],
+    "state": "Acre",
+    "cases": 1335,
+    "deaths": 39,
+    "population": 881935,
+    "coordinates": [
+      -70.3015,
+      -9.13
+    ],
+    "aggregate": "state",
+    "rating": 0.5098039215686274,
+    "tz": [
+      "America/Rio_Branco"
+    ],
+    "featureId": "iso2:BR-AC",
+    "countryId": "iso1:BR",
+    "stateId": "iso2:BR-AC",
+    "name": "Acre, Brazil",
+    "level": "state"
+  },
+  {
+    "country": "Brazil",
+    "sources": [
+      {
+        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+        "name": "SVS-MS",
+        "url": "https://covid.saude.gov.br/"
+      }
+    ],
+    "url": "https://covid.saude.gov.br/",
+    "maintainers": [
+      {
+        "name": "Felipe Roberto",
+        "email": "contato@feliperoberto.com.br",
+        "url": "http://feliperoberto.com.br",
+        "github": "feliperoberto",
+        "country": "iso1:BR",
+        "flag": "🇧🇷"
+      }
+    ],
+    "state": "Alagoas",
+    "cases": 2172,
+    "deaths": 114,
+    "population": 3337357,
+    "coordinates": [
+      -36.695499999999996,
+      -9.662500000000001
+    ],
+    "aggregate": "state",
+    "rating": 0.5098039215686274,
+    "tz": [
+      "America/Maceio"
+    ],
+    "featureId": "iso2:BR-AL",
+    "countryId": "iso1:BR",
+    "stateId": "iso2:BR-AL",
+    "name": "Alagoas, Brazil",
+    "level": "state"
+  },
+  {
+    "country": "Brazil",
+    "sources": [
+      {
+        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+        "name": "SVS-MS",
+        "url": "https://covid.saude.gov.br/"
+      }
+    ],
+    "url": "https://covid.saude.gov.br/",
+    "maintainers": [
+      {
+        "name": "Felipe Roberto",
+        "email": "contato@feliperoberto.com.br",
+        "url": "http://feliperoberto.com.br",
+        "github": "feliperoberto",
+        "country": "iso1:BR",
+        "flag": "🇧🇷"
+      }
+    ],
+    "state": "Amapá",
+    "cases": 2493,
+    "deaths": 69,
+    "population": 845731,
+    "coordinates": [
+      -52.378,
+      1.6084999999999998
+    ],
+    "aggregate": "state",
+    "rating": 0.5098039215686274,
+    "tz": [
+      "America/Belem"
+    ],
+    "featureId": "iso2:BR-AP",
+    "countryId": "iso1:BR",
+    "stateId": "iso2:BR-AP",
+    "name": "Amapá, Brazil",
+    "level": "state"
+  },
+  {
+    "country": "Brazil",
+    "sources": [
+      {
+        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+        "name": "SVS-MS",
+        "url": "https://covid.saude.gov.br/"
+      }
+    ],
+    "url": "https://covid.saude.gov.br/",
+    "maintainers": [
+      {
+        "name": "Felipe Roberto",
+        "email": "contato@feliperoberto.com.br",
+        "url": "http://feliperoberto.com.br",
+        "github": "feliperoberto",
+        "country": "iso1:BR",
+        "flag": "🇧🇷"
+      }
+    ],
+    "state": "Amazonas",
+    "cases": 11925,
+    "deaths": 962,
+    "population": 4144597,
+    "coordinates": [
+      -64.94800000000001,
+      -3.7944999999999998
+    ],
+    "aggregate": "state",
+    "rating": 0.5098039215686274,
+    "tz": [
+      "America/Manaus"
+    ],
+    "featureId": "iso2:BR-AM",
+    "countryId": "iso1:BR",
+    "stateId": "iso2:BR-AM",
+    "name": "Amazonas, Brazil",
     "level": "state"
   },
 ]
