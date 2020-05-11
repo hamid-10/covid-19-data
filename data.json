@@ -367,6 +367,76 @@
     "name": "Austria",
     "level": "country"
   },
+   {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "cases": 15776,
+    "recovered": 13928,
+    "deaths": 583,
+    "active": 1265,
+    "rating": 0.47058823529411764,
+    "coordinates": [
+      13.346,
+      47.696
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso1:AT",
+    "population": 8809212,
+    "populationDensity": 105.09951583035115,
+    "countryId": "iso1:AT",
+    "name": "Austria",
+    "level": "country"
+  },
+   {
+    "country": "Austria",
+    "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
+    "cases": 15776,
+    "recovered": 13928,
+    "deaths": 583,
+    "active": 1265,
+    "rating": 0.47058823529411764,
+    "coordinates": [
+      13.346,
+      47.696
+    ],
+    "tz": [
+      "Europe/Vienna"
+    ],
+    "featureId": "iso1:AT",
+    "population": 8809212,
+    "populationDensity": 105.09951583035115,
+    "countryId": "iso1:AT",
+    "name": "Austria",
+    "level": "country"
+  },
   {
     "country": "Australia",
     "maintainers": [
