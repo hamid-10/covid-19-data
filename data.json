@@ -1,6 +1,6 @@
 [
   {
-    "country": "Austriaaaaaaaaaaaaa",
+    "country": "Austria",
     "url": "https://info.gesundheitsministerium.at/data/GenesenTodesFaelleBL.js",
     "maintainers": [
       {
@@ -33,7 +33,7 @@
     "populationDensity": 86.1501096312734,
     "countryId": "iso1:AT",
     "stateId": "iso2:AT-3",
-    "name": "Lower Austria, Austria",
+    "name": "Lower Austria, Austriaaaaaaaaaa",
     "level": "state"
   },
   {
